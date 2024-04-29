@@ -1,0 +1,13 @@
+{
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  
+  },"type": "module",
+
+
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.19"
+  }
+}
