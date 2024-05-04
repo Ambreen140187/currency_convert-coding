@@ -1,9 +1,10 @@
 {
   "description": "",
   "devDependencies": {
-    "@types/node": "^20.12.7"
+    "@types/node": "^21.12.7"
   
   },"type": "module",
+  "bin": "cur.js",
 
 
   "dependencies": {

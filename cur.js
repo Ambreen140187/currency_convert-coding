@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import inquirer from "inquirer";
 let convertion = {
     "PKR": {
@@ -7,7 +8,7 @@ let convertion = {
         "USD": 1.21, "PKR": 271.79, "GBP": 1
     },
     "USD": {
-        "PKP": 22.50, "GBP": 0.83, "USD": 1
+        "PKP": 225.50, "GBP": 0.83, "USD": 1
     }
 };
 const answer = await inquirer.prompt([
